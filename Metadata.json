@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 7609,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-deploy-storsimple-ova-(onpremises-virtual-array)-on-hyperv/master/New-OVA.ps1",
+    "DownloadCount": 749,
+    "Id": "Powershell-script-to-f48042f4",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 592,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-1-26T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In January 2016 Microsoft rleased a StorSimple On-Premises Virtual Array that can be deployed on Hyper-V or VMWare.  Manual installation notes are here. This script automates the process of feploying the provided VHD image to an on-premises Hyper-V (2012 R2) host.For more informa",
+    "Title": "Powershell script to deploy StorSimple OVA (On-Premises Virtual Array) on HyperV",
+    "UpdatedDate": "2016-1-27T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-deploy-storsimple-ova-(onpremises-virtual-array)-on-hyperv",
+    "UserTags": "Powershell, StorSimple, StorSimple on-premises virtual array"
+}
